@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Effect of network latency on interactive musical performance",
+      "authors": "Bartlette, C.; Headlam, D.; Bocko, M.; Velikic, G.",
+      "year": 2006,
+      "venue": "Music Perception",
+      "link": "https://doi.org/10.1525/mp.2006.24.1.49",
+      "keywords": ["latency", "timing", "networked performance"]
+    },
+    {
+      "title": "Effect of latency on performer interaction and subjective quality assessment of a digital musical instrument",
+      "authors": "Jack, R.H.; Stockman, T.; McPherson, A.P.",
+      "year": 2016,
+      "venue": "Audio Mostly 2016",
+      "link": "https://ieeexplore.ieee.org/document/7769205",
+      "keywords": ["latency", "interaction", "user study"]
+    },
+    {
+      "title": "Immersive networked music performance systems: identifying latency factors",
+      "authors": "Turchet, L.; Tomasetti, M.",
+      "year": 2023,
+      "venue": "3rd International Conference on Immersive and 3D Audio (I3DA)",
+      "link": "https://ebooks.iospress.nl/volumearticle/22374",
+      "keywords": ["network performance", "latency", "immersive audio"]
+    },
+    {
+      "title": "Low-latency real-time network music performance systems: A review",
+      "authors": "Carôt, A.; Werner, C.; Brünger, N.",
+      "year": 2024,
+      "venue": "IEEE Access",
+      "link": "https://ieeexplore.ieee.org/document/10543134",
+      "keywords": ["latency", "low-delay audio", "network music"]
+    },
+    {
+      "title": "Interactive low delay music and speech communication via network connections (OVBOX)",
+      "authors": "Grimm, G.",
+      "year": 2024,
+      "venue": "Acta Acustica",
+      "link": "https://doi.org/10.1051/aacus/2024005",
+      "keywords": ["low latency", "audio streaming", "collaboration"]
+    },
+    {
+      "title": "SYNCROOM – A Collaborative Platform for Online Music Performance",
+      "authors": "Yamaha Corporation",
+      "year": 2021,
+      "venue": "Yamaha Developer",
+      "link": "https://syncroom.yamaha.com/global/",
+      "keywords": ["platform", "real-time", "remote music"]
+    },
+    {
+      "title": "FarPlay: Play Music Online Like Never Before",
+      "authors": "FarPlay",
+      "year": 2022,
+      "venue": "FarPlay.io",
+      "link": "https://farplay.io/",
+      "keywords": ["low latency", "music", "platform"]
+    },
+    {
+      "title": "The Speed of Sound: Solving the Latency for Distant Musical Collaboration",
+      "authors": "Pond, W.",
+      "year": 2022,
+      "venue": "Arizona State University",
+      "link": "https://tech.asu.edu/features/speed-sound",
+      "keywords": ["user experience", "latency", "perception"]
+    },
+    {
+      "title": "Remote Chorus Demonstration for Ultra-Low Latency Real-Time Video Communication",
+      "authors": "NTT Corporation",
+      "year": 2022,
+      "venue": "NTT News Release",
+      "link": "https://group.ntt/en/newsrelease/2022/12/01/221201a.html",
+      "keywords": ["real-time", "chorus", "network technology"]
+    },
+    {
+      "title": "Using the Internet to Let the Bands Play On",
+      "authors": "Elk Audio",
+      "year": 2020,
+      "venue": "Axios",
+      "link": "https://www.axios.com/2020/08/11/5g-music-wifi-aloha-elk-latency-remote-bands",
+      "keywords": ["platform", "live music", "network performance"]
+    }
+  ]
+  
